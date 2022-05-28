@@ -38,6 +38,7 @@
     "eslint": "^8.4.1",
     "eslint-plugin-svelte3": "^3.2.1",
     "https-localhost": "^4.7.0",
+    "mdsvex": "^0.10.6",
     "minimist": "^1.2.5",
     "postcss": "^8.4.12",
     "rimraf": "^3.0.2",
