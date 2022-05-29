@@ -9,4 +9,5 @@
 
 <Go /><br />
 
+<a href="/blog">Blog</a><br />
 <a href="/about">About</a><br />
