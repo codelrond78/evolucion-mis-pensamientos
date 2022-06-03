@@ -4,8 +4,11 @@
     export let date
   </script>
   
-  <h1>{title}</h1>
+  <article class="prose lg:prose-xl">
+    <h1>{title}</h1>
   
-  <p>Published: {date}</p>
+    <p>Published: {date}</p>
+    
+    <slot />
+  </article>
   
-  <slot />
