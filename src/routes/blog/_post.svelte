@@ -1,5 +1,5 @@
 <!-- _post.svelte -->
-<script>
+<script>    
     export let title
     export let date
   </script>

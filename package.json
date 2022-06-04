@@ -56,6 +56,7 @@
   },
   "type": "module",
   "dependencies": {
-    "daisyui": "^2.13.3"
+    "daisyui": "^2.13.3",
+    "mermaid": "^9.1.1"
   }
 }
