@@ -4,9 +4,11 @@ date: "2022-06-05"
 author: codelrond
 ---
 
-Hay tres posibilidades:
-
 - Existe una relación no falsificable entre una característica física observable _c_ y la acción _i_.
-- a -- (i) --> b<sup>+</sup> sii b -- (i) --> c ha ocurrido antes y _a_ lo ha observado.
-- Muchas iteraciones con asimetría fortuita. La última iteración a quien le toca hacer _i_ se escapa.
 
+- En otro caso: supongamos que vemos a --(i)--> b<sup>+</sup>. Si volvemos a verlo puede ser:
+
+    - b --(i)--> c en momento anterior y _a_ lo observó.
+    - b --(i)--> a en momento anterior. La última iteración se escapa.
+
+Definición: b<sup>+</sup> es b ó alguno de sus descendientes.

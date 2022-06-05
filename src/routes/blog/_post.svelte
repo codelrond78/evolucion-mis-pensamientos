@@ -1,6 +1,6 @@
 <!-- _post.svelte -->
 <script>
-    import Gitter from '../../lib/components/_gitter.md'    
+    import Gitter from '../../lib/components/gitter.md'    
     export let title
     export let date
   </script>
