@@ -1,5 +1,6 @@
 <!-- _post.svelte -->
-<script>    
+<script>
+    import Gitter from '../../lib/components/_gitter.md'    
     export let title
     export let date
   </script>
@@ -9,6 +10,9 @@
   
     <p>Published: {date}</p>
     
+    <Gitter />
+
     <slot />
+
   </article>
   
